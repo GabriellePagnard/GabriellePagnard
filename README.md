@@ -6,7 +6,7 @@ Bonjour ! 👋
 <br>
 <br>
 
-Bienvenue sur mon profil, ici, vous en découvrirez un peu plus à mon sujet...
+Bienvenue sur mon profil. Ici, vous en découvrirez un peu plus à mon sujet...
 <br>
 <br>
 
