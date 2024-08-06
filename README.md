@@ -18,17 +18,18 @@ Je suis une développeuse web fullstack junior passionnée, à la recherche d'un
 
 ## 🌟 Ce qui me rend unique ?
 
-Apprentissage rapide : Capacité à m'adapter rapidement aux nouvelles technologies.
-Travail d'équipe : Aisance à collaborer et à contribuer activement aux projets.
-Créativité et rigueur : Combinaison d'un esprit créatif et d'une grande précision dans mon travail.
+➡️ Apprentissage rapide : Capacité à m'adapter rapidement aux nouvelles technologies   
+➡️ Découverte : Une véritable soif d'apprendre et de résoudre des problèmes   
+➡️ Travail d'équipe : Aisance à collaborer et à contribuer activement aux projets   
+➡️ Créativité et rigueur : Combinaison d'un esprit créatif et d'une grande précision dans mon travail.
 
 <br>
 
 ## 🚀 Ce qui me motive ?
 
-Passion pour le développement : Le développement est plus qu'un métier, c'est une véritable passion.
-Défis : Toujours prête à relever de nouveaux défis pour évoluer.
-Attitude positive : Bonne humeur et attitude constructive dans tous mes projets.
+➡️ Passion pour le développement : Le développement est plus qu'un métier, c'est une véritable passion   
+➡️ Défis : Toujours prête à relever de nouveaux défis pour évoluer   
+➡️ Attitude positive : Bonne humeur et attitude constructive dans tous mes projets
 
 <br>
 
